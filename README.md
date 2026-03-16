@@ -36,9 +36,9 @@
 
 ## 🌐 Connect With Me
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/your-username
 Telegram: https://t.me/EyuelAlemuOfficial  
-Twitter/X: @eyuela05
+Twitter/X: https://twitter.com/eyuela05
 
 ---
 

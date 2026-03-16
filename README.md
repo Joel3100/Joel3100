@@ -1,16 +1,59 @@
-## Hi there 👋
+## Hi 👋 I'm Eyuel.
 
-<!--
-**Joel3100/Joel3100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Student at Jimma University  
+💻 Frontend Developer | Future Full Stack Developer  
+📍 Ethiopia  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Studying **Computer Science at Jimma University**
+- 🌱 Currently learning **React**
+- 🛠 Building web projects to improve my development skills
+- 🎯 Goal: Become a **Professional Full Stack Developer**
+- 📚 I enjoy reading **Theology books**
+
+---
+
+## 🧠 Technologies & Tools
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-black?logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss)
+
+### Future Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn: 
+Telegram: https://t.me/EyuelAlemuOfficial  
+Twitter/X: @eyuela05
+
+---
+
+## 📊 GitHub Stats
+
+![Eyuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joel3100&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+- ⚛️ Mastering **React**
+- 🧩 Building practical projects
+- 📚 Learning **Full Stack Development**
+
+---
+
+⭐ *"Consistent learning and building projects every day."*
